@@ -1,18 +1,13 @@
 <p align="center">
-  <img src="https://images.steamusercontent.com/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="800"/>
+  <img src="https://media.tenor.com/Dy9pZ2V2pMkAAAAC/final-fantasy-wizard-magic.gif" width="750"/>
 </p>
 
 <h1 align="center">dev_ink</h1>
-
-<p align="center">
-  Engineering student • Learning to build things step by step
-</p>
+<p align="center">Engineering student • Learning programming & logic</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Engineering+student;Learning+C%2B%2B+Java+and+HTML;Focused+on+logic+and+foundations" />
 </p>
-
----
 
 ## About me
 
@@ -21,16 +16,12 @@ I’m learning programming from the ground up, focusing on logic, problem solvin
 
 I like working consistently, asking questions, and improving little by little. My goal is to build a strong technical base that will support me throughout my career.
 
----
-
 ## My path so far
 
 - Engineering student (1 year completed)  
 - Actively learning programming fundamentals  
 - Strong interest in software development and computer science  
 - Focused on clarity, structure, and reasoning  
-
----
 
 ## What I work with
 
@@ -45,8 +36,6 @@ I like working consistently, asking questions, and improving little by little. M
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
 </p>
-
----
 
 ## How I approach my work
 
@@ -67,8 +56,6 @@ I like working consistently, asking questions, and improving little by little. M
   </tr>
 </table>
 
----
-
 ## Skills beyond code
 
 - Leadership and teamwork experience  
@@ -76,8 +63,6 @@ I like working consistently, asking questions, and improving little by little. M
 - Hard-working and disciplined  
 - Able to explain concepts clearly and patiently  
 - Strong analytical and logical thinking  
-
----
 
 ## What I’m doing right now
 
