@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/85/4b/fb/854bfb7944dbe195d85a44631eb77dbe.gif" width="750"/>
+  <img src="https://i.pinimg.com/originals/85/4b/fb/854bfb7944dbe195d85a44631eb77dbe.gif" width="450"/>
 </p>
 
 <h1 align="center" style="color:#00FFFF;">dev_ink</h1>
